@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "AI-Compatible Coherence Formats \u2013 Booklet Artifact",
+    "upload_type": "publication",
+    "publication_type": "book",
+    "description": "This artifact, authored by Christopher Sweeney, presents a symbolic framework for formatting language in ways that preserve coherence, especially in AI-interpreted contexts. It includes formatting primitives, punctuation structures, and recursive cues used to prevent symbolic collapse. The booklet is part of the Velion Framework and Field of Meaning protocols developed under Veleonis Systems Lab.",
+    "creators": [
+      {
+        "name": "Sweeney, Christopher",
+        "affiliation": "Veleonis Systems Lab"
+      }
+    ],
+    "keywords": [
+      "AI alignment",
+      "Field of Meaning",
+      "symbolic reasoning",
+      "Velion Framework",
+      "coherence",
+      "attribution",
+      "nonlinear communication",
+      "language structure"
+    ],
+    "license": "cc-by-nc-4.0",
+    "access_right": "open",
+    "notes": "This artifact is authored and digitally sealed by Christopher Sweeney. All symbolic structures attributed.",
+    "communities": [
+      {
+        "identifier": "ai"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/VeleonSystemsLab",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ],
+    "language": "eng",
+    "version": "1.0",
+    "publication_date": "2025-06-28"
+  }
+}
